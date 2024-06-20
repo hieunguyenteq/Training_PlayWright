@@ -1,0 +1,13 @@
+{
+  "name": "Training_PlayWright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hieunguyenteq/Training_PlayWright.git",
+  "author": "hieunguyenteq <hieunguyen@teqnological.asia>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.6"
+  },
+  "scripts": {}
+}
